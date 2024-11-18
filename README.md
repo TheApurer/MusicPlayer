@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/e95f0be6-0612-4870-8a32-00e5a92cd066)
 
-一个音乐播放器的vue组件
+一个基于valaxy框架的音乐播放器的vue组件
 
 >使用样例
 
